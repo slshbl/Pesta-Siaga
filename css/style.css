@@ -6094,7 +6094,7 @@ a.close.disabled {
 }
 
 .bg-info {
-  background-color: var(--pink) !important;
+  background-color: #e83e8c !important;
   border-radius: 50px;
 }
 
