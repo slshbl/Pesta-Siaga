@@ -6094,7 +6094,8 @@ a.close.disabled {
 }
 
 .bg-info {
-  background-color: #FFCC00 !important;
+  background-color: #fff !important;
+  border-radius: 50px;
 }
 
 a.bg-info:hover, a.bg-info:focus,
